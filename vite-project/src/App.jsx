@@ -4,7 +4,7 @@ import ScrollToTop from './components/ScrollToTop';
 import Cards from './components/cards';
 import Clients from './components/clients';
 import Footer from './components/footer';
-import Free from './components/free';
+// import Free from './components/free';
 import Home from './components/Home';
 import Like from './components/like';
 import Navbar from "./components/Navbar";
